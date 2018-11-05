@@ -4,8 +4,10 @@
 
 //GLOBAL VARIABLES
 /* global $ */
-
-
+var userChoice = ""
+var computerChoice = ""
+var winner = ""
+var randomNumber = 0
 
 // DOCUMENT READY FUNCTION BELOW
 
